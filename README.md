@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software engineer from Ghana</h3>
 <img width="200" height="200" src="https://userimages.githubusercontent.com/88662777/230893445-adc0c6bb-15ef-40f7-b18b-69e2e1891e9d.png" alt=”my banner”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hurcheson&label=Profile%20views&color=0e75b6&style=flat" alt="hurcheson" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=hurcheson&label=Profile%20views&color=0e75b6&style=flat" alt="hurcheson](https://user-images.githubusercontent.com/88662777/230893445-adc0c6bb-15ef-40f7-b18b-69e2e1891e9d.png)" /> </p>
 
 - 🔭 I’m currently working on **Python Exercises**
 
