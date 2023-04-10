@@ -1,4 +1,5 @@
-[![MasterHead]<img src=”https://userimages.githubusercontent.com/88662777/230893445-adc0c6bb-15ef-40f7-b18b-69e2e1891e9d.png" alt=”my banner”>
+![White and Blue Modern Professional Personal Banner](https://user-images.githubusercontent.com/88662777/230893445-adc0c6bb-15ef-40f7-b18b-69e2e1891e9d.png)
+
 <h1 align="center">Hi 👋, I'm Hurcheson</h1>
 <h3 align="center">A passionate software engineer from Ghana</h3>
 <img width="200" height="200" src="https://userimages.githubusercontent.com/88662777/230893445-adc0c6bb-15ef-40f7-b18b-69e2e1891e9d.png" alt=”my banner”>
