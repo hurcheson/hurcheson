@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hurcheson</h1>
-<h3 align="center">A passionate Data Scientist from Ghana</h3>
+<h3 align="center">A passionate Data Scientist and AI Developer from Ghana</h3>
 <!-- <img width="200" height="200" src="https://user-images.githubusercontent.com/88662777/230893445-adc0c6bb-15ef-40f7-b18b-69e2e1891e9d.png" alt=”my banner”> -->
 
 
