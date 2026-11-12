@@ -1,21 +1,40 @@
-<h1 align="center">Hi 👋, I'm Hurcheson</h1>
-<h3 align="center">A passionate Data Scientist and AI Developer from Ghana</h3>
-<!-- <img width="200" height="200" src="https://user-images.githubusercontent.com/88662777/230893445-adc0c6bb-15ef-40f7-b18b-69e2e1891e9d.png" alt=”my banner”> -->
+# Hurcheson Asante Ofori
 
+**Applied Statistics & Data Science · Mathematical & Computational Research**
 
-- 🔭 I’m currently working on **AI/ML/DS stuffs**
+M.S. student in **Applied Statistics and Data Science** and **Graduate Teaching Assistant** at the [University of Texas Rio Grande Valley](https://www.utrgv.edu/). B.Sc. in Mathematics (First Class Honours), University of Mines and Technology, Ghana.
 
-- 🌱 I’m currently learning **Neural Networks, Computer Vision, Scientific Computing**
+[Portfolio](https://hurcheson.vercel.app) · [Résumé](https://hurcheson.vercel.app/resume.html) · [ORCID](https://orcid.org/0009-0009-7453-4471) · [LinkedIn](https://www.linkedin.com/in/hurcheson/) · [Email](mailto:oforihurcheson@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hurcheson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hurcheson" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codehelper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codehelper1" height="30" width="40" /></a>
-</p>
+I work at the intersection of **statistical reasoning, mathematical modelling, and scientific computing**. I'm interested in methods that answer substantive questions, communicate uncertainty, and can be independently checked.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Research interests
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hurcheson&show_icons=true&locale=en&layout=compact" alt="hurcheson" /></p>
+- **Mathematical biology and epidemiology:** compartmental disease models, dynamical systems, numerical simulation, and sensitivity analysis.
+- **Statistical inference and machine learning:** study design, model diagnostics, prediction, and evaluation under imperfect data.
+- **Biostatistics and health data:** surveillance, sampling strategies, and reproducible analysis.
+- **Computational mathematics:** numerical methods, optimization, and experimental mathematics.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hurcheson&show_icons=true&locale=en" alt="hurcheson" /></p>
+### Research and manuscripts
+
+- **Rift Valley fever transmission modelling** — undergraduate mathematical epidemiology research involving compartmental models and intervention analysis. A related manuscript is **accepted for publication (forthcoming)**; bibliographic details will be added when finalized.
+- **Experimental number theory** — coauthor of a manuscript on theta cycles modulo prime powers, **submitted for publication**.
+- **Statistical reliability and surveillance methods** — ongoing methodological interests and exploratory work; I share research artifacts publicly when they are suitable for release.
+
+*Manuscript statuses are intentionally distinguished from published articles. Projects in development are not presented as completed studies.*
+
+### Selected public work
+
+| Repository | What it illustrates |
+| --- | --- |
+| [Rift Valley fever thesis archive](https://github.com/hurcheson/rift_valley_fever) | Materials from my undergraduate mathematical modelling work; this is a historical archive rather than a verified reproduction package for the forthcoming article. |
+| [Statistical reliability research archive](https://github.com/hurcheson/real-world-statistical-reliability) | Documented reproducibility checks and limits of a study using public administrative data. |
+| [Monte Carlo portfolio-risk prototype](https://github.com/hurcheson/quant-var-risk-engine) | A Python/Streamlit demonstration of simulation-based VaR and expected shortfall using **synthetic data**; not a production financial-risk system. |
+
+### Teaching and tools
+
+As a Graduate Teaching Assistant, I support students in algebra and calculus through guided problem solving, grading, and academic feedback.
+
+**Computing:** Python · R · SAS · MATLAB · C/C++ · LaTeX · Git/GitHub
+
+I'm open to thoughtful research collaborations and opportunities in applied statistics, scientific computing, and data-driven problem solving.
